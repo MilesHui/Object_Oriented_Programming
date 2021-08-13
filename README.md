@@ -12,3 +12,9 @@ in a file.
 
 ## Unit testing 
 Unit testing for Enigma machine
+
+## Checkers
+an application to play Checkers (a.k.a. English Draughts). Contains
+- strategy pattern
+- abstract factory pattern
+- memento pattern
